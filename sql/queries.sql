@@ -1,1 +1,0 @@
-SELECT brand, price FROM cars WHERE price > 1000000;
